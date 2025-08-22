@@ -5,7 +5,7 @@
 💻 Skills: Python, C++, C, Matlab
 
 ## 🔧 Projects
-- [Autonomous RC Car](https://github.com/username/rc-car-autonomous)  
+- [Autonomous RC Car](https://github.com/username/Mini-autonomous-car)  
   Small-scale self-driving RC car using Arduino, Raspberry Pi, and OpenCV.  
 
 ## 📫 Contact
