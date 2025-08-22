@@ -5,8 +5,10 @@
 💻 Skills: Python, C++, C, Matlab
 
 ## 🔧 Projects
-- [Autonomous RC Car](https://github.com/chick-phill-a/Mini-autonomous-car)  
-  Small-scale self-driving RC car using Arduino, Raspberry Pi, and OpenCV.  
+- [💵Cryptocurrency Autotrade](https://github.com/chick-phill-a/crypto-autotrade)  
+  Self trading program using volatility breakout strategy
+- [🏎️Autonomous RC Car](https://github.com/chick-phill-a/Mini-autonomous-car)  
+  Small-scale self-driving RC car using Arduino, Raspberry Pi, and OpenCV.
 
 ## 📫 Contact
 - [LinkedIn](https://linkedin.com/in/juhyoung-lee-a121aa239)  
